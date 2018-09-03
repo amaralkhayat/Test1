@@ -262,7 +262,8 @@ static void DeriveBufferSize (AudioQueueRef audioQueue, AudioStreamBasicDescript
     [volumeDataPoints addObject:[NSNumber numberWithFloat:dataPoint]];
     
     [sineWave updateWaveDisplay];
-    
+    mnjk jkljkl
+    klököklökl
     if (detectedSpeech) {
         if (meterStateDB.mAveragePower < kSilenceThresholdDB) {
             samplesBelowSilence++;
